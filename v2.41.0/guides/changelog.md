@@ -1,6 +1,6 @@
 ## [v2.41.0](https://github.com/moovweb/xdn/releases/tag/v2.41.0) (2021-01-25)
 ## What’s Changed* XDN-8397 - Add support for Next.js running in an nx monorepo (#695) @markbrocato* fix(devtools/style): isolate style a bit more (#692) @adrien-k---
-## [untagged-cd7d16304b488fbdc279](https://github.com/moovweb/xdn/releases/tag/untagged-cd7d16304b488fbdc279) (2021-01-21)
+## [v2.40.2](https://github.com/moovweb/xdn/releases/tag/untagged-cd7d16304b488fbdc279) (2021-01-21)
 ## What’s Changed* Fix bug in url logging where field was not escaped (#694) @phdunham* Don't populate geo/UA headers when behind edge (#693) @ierceg---
 ## [v2.40.1](https://github.com/moovweb/xdn/releases/tag/v2.40.1) (2021-01-18)
 ## What’s Changed* Add image optimizer (#686) @markbrocato* Copy over includeFiles and nodeModules before loading the router at b… (#689) @markbrocato* Preserve colors in output when running "xdn dev" (#690) @markbrocato---
