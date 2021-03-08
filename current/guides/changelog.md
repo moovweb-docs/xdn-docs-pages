@@ -1,101 +1,101 @@
-#### [v2.46.10](https://github.com/moovweb/xdn/releases/tag/v2.46.10) (2021-03-03) - **XDN Packages**
+#### **XDN Packages** - [v2.46.10](https://github.com/moovweb/xdn/releases/tag/v2.46.10) (2021-03-03)
 
 - Fixed a bug where the XDN CLI doesn't output the server URL on startu… (#743) @markbrocato
 - fix(UserLambdaLogStreamer): Moved end user lambda log stream to deplo… (#741) @MarkusTarn
 
 ---
 
-#### [v2.46.9](https://github.com/moovweb/xdn/releases/tag/v2.46.9) (2021-02-26) - **XDN Packages**
+#### **XDN Packages** - [v2.46.9](https://github.com/moovweb/xdn/releases/tag/v2.46.9) (2021-02-26)
 
 - XDN-8956 - [@xdn/starter] service-worker.js: “process” is not defined… (#734) @markbrocato
 - Adds typings for @xdn/devtools
 
 ---
 
-#### [v2.46.7](https://github.com/moovweb/xdn/releases/tag/v2.46.7) (2021-02-23) - **XDN Packages**
+#### **XDN Packages** - [v2.46.7](https://github.com/moovweb/xdn/releases/tag/v2.46.7) (2021-02-23)
 
 - fix(StremingUserLambdaLogs) Added try catch for ensureAppStarted to i… (#726) @MarkusTarn
 
 ---
 
-#### [v2.46.6](https://github.com/moovweb/xdn/releases/tag/v2.46.6) (2021-02-23) - **XDN Packages**
+#### **XDN Packages** - [v2.46.6](https://github.com/moovweb/xdn/releases/tag/v2.46.6) (2021-02-23)
 
 - XDN-8963 - @xdn/vue-storefront lambda fails to start (#731) @markbrocato
 - XDN-8955 - Fix xdn init for frontity (#730) @markbrocato
 
 ---
 
-#### [v2.46.4](https://github.com/moovweb/xdn/releases/tag/v2.46.4) (2021-02-18) - **XDN Packages**
+#### **XDN Packages** - [v2.46.4](https://github.com/moovweb/xdn/releases/tag/v2.46.4) (2021-02-18)
 
 - Validate Nuxt dependencies on build (#714) @tristanlee85
 
 ---
 
-#### [v2.46.3](https://github.com/moovweb/xdn/releases/tag/v2.46.3) (2021-02-17) - **XDN Packages**
+#### **XDN Packages** - [v2.46.3](https://github.com/moovweb/xdn/releases/tag/v2.46.3) (2021-02-17)
 
 - XDN-8410 - Suggest users go to the forums to get help when a deployme… (#729) @markbrocato
 
 ---
 
-#### [v2.46.2](https://github.com/moovweb/xdn/releases/tag/v2.46.2) (2021-02-17) - **XDN Packages**
+#### **XDN Packages** - [v2.46.2](https://github.com/moovweb/xdn/releases/tag/v2.46.2) (2021-02-17)
 
 - Add service worker and prefetch support to @xdn/frontity. (#727) @markbrocato
 - Fix regression that caused --site option to be ignored when deploying. (#728) @markbrocato
 
 ---
 
-#### [v2.46.1](https://github.com/moovweb/xdn/releases/tag/v2.46.1) (2021-02-16) - **XDN Packages**
+#### **XDN Packages** - [v2.46.1](https://github.com/moovweb/xdn/releases/tag/v2.46.1) (2021-02-16)
 
 - Improve support for Webpack 4 and 5 on Next.js (#722) @markbrocato
 
 ---
 
-#### [v2.46.0](https://github.com/moovweb/xdn/releases/tag/v2.46.0) (2021-02-16) - **XDN Packages**
+#### **XDN Packages** - [v2.46.0](https://github.com/moovweb/xdn/releases/tag/v2.46.0) (2021-02-16)
 
 - XDN-8788 - Provide a connector for frontity (#725) @markbrocato
 
 ---
 
-#### [v2.45.0](https://github.com/moovweb/xdn/releases/tag/v2.45.0) (2021-02-11) - **XDN Packages**
+#### **XDN Packages** - [v2.45.0](https://github.com/moovweb/xdn/releases/tag/v2.45.0) (2021-02-11)
 
 - XDN-8749 - TypeError: prompts is not a function (#719) @markbrocato
 - XDN-8205_Capture-console-output-of-user-lambda-during-deployment-and-prerendering-in-build-logs_Markus-Tarn (#713) @MarkusTarn
 
 ---
 
-#### [v2.44.2](https://github.com/moovweb/xdn/releases/tag/v2.44.2) (2021-02-09) - **XDN Packages**
+#### **XDN Packages** - [v2.44.2](https://github.com/moovweb/xdn/releases/tag/v2.44.2) (2021-02-09)
 
 - Add encoding as a dependency of @xdn/next so that create-next-app wor… (#715) @markbrocato
 
 ---
 
-#### [v2.44.0](https://github.com/moovweb/xdn/releases/tag/v2.44.0) (2021-02-08) - **XDN Packages**
+#### **XDN Packages** - [v2.44.0](https://github.com/moovweb/xdn/releases/tag/v2.44.0) (2021-02-08)
 
 - XDN-8466 - Add @xdn/starter connector (#702) @markbrocato
 
 ---
 
-#### [v2.44.0](https://github.com/moovweb/xdn/releases/tag/v2.44.0) (2021-02-08) - **XDN Packages**
+#### **XDN Packages** - [v2.44.0](https://github.com/moovweb/xdn/releases/tag/v2.44.0) (2021-02-08)
 
 - XDN-8466 - Add @xdn/starter connector (#702) @markbrocato
 
 ---
 
-#### [v2.43.0](https://github.com/moovweb/xdn/releases/tag/v2.43.0) (2021-02-05) - **XDN Packages**
+#### **XDN Packages** - [v2.43.0](https://github.com/moovweb/xdn/releases/tag/v2.43.0) (2021-02-05)
 
 - XDN-8650 - Add --disable-permanent-assets deploy option (#710) @markbrocato
 - Prerender top (#620) @KaarelKelk
 
 ---
 
-#### [v2.42.1](https://github.com/moovweb/xdn/releases/tag/v2.42.1) (2021-02-04) - **XDN Packages**
+#### **XDN Packages** - [v2.42.1](https://github.com/moovweb/xdn/releases/tag/v2.42.1) (2021-02-04)
 
 - Make NextRoutes.render404 public. (#709) @markbrocato
 - Add Webpack 5 support to Next.js apps. (#708) @markbrocato
 
 ---
 
-#### [v2.42.0](https://github.com/moovweb/xdn/releases/tag/v2.42.0) (2021-02-03) - **XDN Packages**
+#### **XDN Packages** - [v2.42.0](https://github.com/moovweb/xdn/releases/tag/v2.42.0) (2021-02-03)
 
 - tests(ConsoleRedirect/ForwardQS): enable integration test (#687) @adrien-k
 - feat: CLI/xdn env pull (#700) @adrien-k
@@ -106,28 +106,28 @@
 
 ---
 
-#### [v2.41.1](https://github.com/moovweb/xdn/releases/tag/v2.41.1) (2021-01-29) - **XDN Packages**
+#### **XDN Packages** - [v2.41.1](https://github.com/moovweb/xdn/releases/tag/v2.41.1) (2021-01-29)
 
 - Next.js rewrites: Don't add additional route to rewrite json data URLs. (#698) @markbrocato
 - Don't flush on XDN version upgrade (#699) @ierceg
 
 ---
 
-#### [v2.41.0](https://github.com/moovweb/xdn/releases/tag/v2.41.0) (2021-01-25) - **XDN Packages**
+#### **XDN Packages** - [v2.41.0](https://github.com/moovweb/xdn/releases/tag/v2.41.0) (2021-01-25)
 
 - XDN-8397 - Add support for Next.js running in an nx monorepo (#695) @markbrocato
 - fix(devtools/style): isolate style a bit more (#692) @adrien-k
 
 ---
 
-#### [v2.40.2](https://github.com/moovweb/xdn/releases/tag/untagged-cd7d16304b488fbdc279) (2021-01-21) - **XDN Packages**
+#### **XDN Packages** - [v2.40.2](https://github.com/moovweb/xdn/releases/tag/untagged-cd7d16304b488fbdc279) (2021-01-21)
 
 - Fix bug in url logging where field was not escaped (#694) @phdunham
 - Don't populate geo/UA headers when behind edge (#693) @ierceg
 
 ---
 
-#### [v2.40.1](https://github.com/moovweb/xdn/releases/tag/v2.40.1) (2021-01-18) - **XDN Packages**
+#### **XDN Packages** - [v2.40.1](https://github.com/moovweb/xdn/releases/tag/v2.40.1) (2021-01-18)
 
 - Add image optimizer (#686) @markbrocato
 - Copy over includeFiles and nodeModules before loading the router at b… (#689) @markbrocato
@@ -135,44 +135,44 @@
 
 ---
 
-#### [v2.40.0](https://github.com/moovweb/xdn/releases/tag/v2.40.0) (2021-01-13) - **XDN Packages**
+#### **XDN Packages** - [v2.40.0](https://github.com/moovweb/xdn/releases/tag/v2.40.0) (2021-01-13)
 
 - feat(ConsoleRedirect): trim qs option + match with sorted qs (#682) @adrien-k
 
 ---
 
-#### [v2.39.3](https://github.com/moovweb/xdn/releases/tag/v2.39.3) (2021-01-11) - **XDN Packages**
+#### **XDN Packages** - [v2.39.3](https://github.com/moovweb/xdn/releases/tag/v2.39.3) (2021-01-11)
 
 - bump version (#685) @KaarelKelk
 - fix(Axios) Fix failing deploymnts due to maxBodyLength (#684) @KaarelKelk
 
 ---
 
-#### [v2.39.2](https://github.com/moovweb/xdn/releases/tag/v2.39.2) (2021-01-11) - **XDN Packages**
+#### **XDN Packages** - [v2.39.2](https://github.com/moovweb/xdn/releases/tag/v2.39.2) (2021-01-11)
 
 - XDN-8150 - Wrong route being run when proxy is used with path and tra… (#683) @markbrocato
 
 ---
 
-#### [v2.39.1](https://github.com/moovweb/xdn/releases/tag/v2.39.1) (2021-01-11) - **XDN Packages**
+#### **XDN Packages** - [v2.39.1](https://github.com/moovweb/xdn/releases/tag/v2.39.1) (2021-01-11)
 
 - fix(Build): double logs on build fail + external messages (#681) @adrien-k
 
 ---
 
-#### [v2.39.0](https://github.com/moovweb/xdn/releases/tag/v2.39.0) (2021-01-08) - **XDN Packages**
+#### **XDN Packages** - [v2.39.0](https://github.com/moovweb/xdn/releases/tag/v2.39.0) (2021-01-08)
 
 - Add support for nuxt generate and static pages which fall back to SSR. (#671) @markbrocato
 
 ---
 
-#### [v2.38.1](https://github.com/moovweb/xdn/releases/tag/v2.38.1) (2021-01-08) - **XDN Packages**
+#### **XDN Packages** - [v2.38.1](https://github.com/moovweb/xdn/releases/tag/v2.38.1) (2021-01-08)
 
 - Fixing VSF (#676) @dijs
 
 ---
 
-#### [v2.38.0](https://github.com/moovweb/xdn/releases/tag/v2.38.0) (2021-01-08) - **XDN Packages**
+#### **XDN Packages** - [v2.38.0](https://github.com/moovweb/xdn/releases/tag/v2.38.0) (2021-01-08)
 
 - XDN-8116_XDN-cli-process-should-reflect-same-exit-code-as-its-child-process_Markus-Tarn (#680) @MarkusTarn
 - Adds a --connector option to xdn init. (#679) @markbrocato
@@ -180,14 +180,14 @@
 
 ---
 
-#### [v2.37.2](https://github.com/moovweb/xdn/releases/tag/v2.37.2) (2021-01-07) - **XDN Packages**
+#### **XDN Packages** - [v2.37.2](https://github.com/moovweb/xdn/releases/tag/v2.37.2) (2021-01-07)
 
 - [XDN-7802] Republish connectors to public repo (#665) @tristanlee85
 - Fix local permanent asset support in dev and prod modes. (#678) @markbrocato
 
 ---
 
-#### [v2.37.1](https://github.com/moovweb/xdn/releases/tag/v2.37.1) (2021-01-06) - **XDN Packages**
+#### **XDN Packages** - [v2.37.1](https://github.com/moovweb/xdn/releases/tag/v2.37.1) (2021-01-06)
 
 - Increase default header size to 64kb (#669) @ierceg
 - Xdn 7974 fix include files (#670) @markbrocato
@@ -195,7 +195,7 @@
 
 ---
 
-#### [v2.37.0](https://github.com/moovweb/xdn/releases/tag/v2.37.0) (2021-01-06) - **XDN Packages**
+#### **XDN Packages** - [v2.37.0](https://github.com/moovweb/xdn/releases/tag/v2.37.0) (2021-01-06)
 
 - Bump axios from 0.19.0 to 0.21.1 in /packages/cli (#675) @dependabot
 - Bump axios from 0.19.2 to 0.21.1 in /packages/build-lambda (#674) @dependabot
@@ -207,26 +207,26 @@
 
 ---
 
-#### [v2.36.1](https://github.com/moovweb/xdn/releases/tag/v2.36.1) (2020-12-30) - **XDN Packages**
+#### **XDN Packages** - [v2.36.1](https://github.com/moovweb/xdn/releases/tag/v2.36.1) (2020-12-30)
 
 - Fix redirects with queries (#666) @ierceg
 
 ---
 
-#### [v2.36.0](https://github.com/moovweb/xdn/releases/tag/v2.36.0) (2020-12-30) - **XDN Packages**
+#### **XDN Packages** - [v2.36.0](https://github.com/moovweb/xdn/releases/tag/v2.36.0) (2020-12-30)
 
 - core API docs update (#663) @ianand
 - Use xdn dev (#660) @markbrocato
 
 ---
 
-#### [v2.35.2](https://github.com/moovweb/xdn/releases/tag/v2.35.2) (2020-12-24) - **XDN Packages**
+#### **XDN Packages** - [v2.35.2](https://github.com/moovweb/xdn/releases/tag/v2.35.2) (2020-12-24)
 
 - Xdn 7579 xdn init doesnt create dependency files mark brocato (#656) @markbrocato
 
 ---
 
-#### [v2.35.1](https://github.com/moovweb/xdn/releases/tag/v2.35.1) (2020-12-23) - **XDN Packages**
+#### **XDN Packages** - [v2.35.1](https://github.com/moovweb/xdn/releases/tag/v2.35.1) (2020-12-23)
 
 - Fix caching manifest generation issue (#661) @ierceg
 - fix(proxy/edge): path with no / + fix(proxy/cloud) query-string forwarding (#662) @adrien-k
@@ -235,7 +235,7 @@
 
 ---
 
-#### [v2.35.0](https://github.com/moovweb/xdn/releases/tag/v2.35.0) (2020-12-22) - **XDN Packages**
+#### **XDN Packages** - [v2.35.0](https://github.com/moovweb/xdn/releases/tag/v2.35.0) (2020-12-22)
 
 - XDN-7844 - Issues with Next Commerce support (#658) @markbrocato
 - XDN-7849 - serveStatic does not support nested paths (#657) @markbrocato
@@ -243,38 +243,38 @@
 
 ---
 
-#### [v2.34.2](https://github.com/moovweb/xdn/releases/tag/v2.34.2) (2020-12-22) - **XDN Packages**
+#### **XDN Packages** - [v2.34.2](https://github.com/moovweb/xdn/releases/tag/v2.34.2) (2020-12-22)
 
 - Add checks before using endsWith (#651) @ierceg
 
 ---
 
-#### [v2.34.1](https://github.com/moovweb/xdn/releases/tag/v2.34.1) (2020-12-21) - **XDN Packages**
+#### **XDN Packages** - [v2.34.1](https://github.com/moovweb/xdn/releases/tag/v2.34.1) (2020-12-21)
 
 - Fastly cert update + multiple domain activation fix (#653) @leotoll
 
 ---
 
-#### [v2.34.0](https://github.com/moovweb/xdn/releases/tag/v2.34.0) (2020-12-21) - **XDN Packages**
+#### **XDN Packages** - [v2.34.0](https://github.com/moovweb/xdn/releases/tag/v2.34.0) (2020-12-21)
 
 - Improved error message if project fails due to missing @xdn/next build plugins (#652) @ianand
 - XDN-7810 - Add support for fallback: 'blocking' in getStaticPaths() (#654) @markbrocato
 
 ---
 
-#### [v2.33.4](https://github.com/moovweb/xdn/releases/tag/v2.33.4) (2020-12-18) - **XDN Packages**
+#### **XDN Packages** - [v2.33.4](https://github.com/moovweb/xdn/releases/tag/v2.33.4) (2020-12-18)
 
 - Remove content-length setting on unzipping (#601) @ierceg
 
 ---
 
-#### [v2.33.3](https://github.com/moovweb/xdn/releases/tag/v2.33.3) (2020-12-17) - **XDN Packages**
+#### **XDN Packages** - [v2.33.3](https://github.com/moovweb/xdn/releases/tag/v2.33.3) (2020-12-17)
 
 - Added missing appShell (#649) @ierceg
 
 ---
 
-#### [v2.33.2](https://github.com/moovweb/xdn/releases/tag/v2.33.2) (2020-12-17) - **XDN Packages**
+#### **XDN Packages** - [v2.33.2](https://github.com/moovweb/xdn/releases/tag/v2.33.2) (2020-12-17)
 
 - fix(Redirect): bug in initialise build (#647) @adrien-k
 - test(ConsoleRedirect): enable integration test (#646) @adrien-k
@@ -282,21 +282,21 @@
 
 ---
 
-#### [v2.33.1](https://github.com/moovweb/xdn/releases/tag/v2.33.1) (2020-12-16) - **XDN Packages**
+#### **XDN Packages** - [v2.33.1](https://github.com/moovweb/xdn/releases/tag/v2.33.1) (2020-12-16)
 
 - XDN-7693 - Next: SSG static data paths are not correctly prerendered (#644) @markbrocato
 - fix(core/redirect): query params (fixes the devtools docs redirect) (#608) @adrien-k
 
 ---
 
-#### [v2.33.0](https://github.com/moovweb/xdn/releases/tag/v2.33.0) (2020-12-16) - **XDN Packages**
+#### **XDN Packages** - [v2.33.0](https://github.com/moovweb/xdn/releases/tag/v2.33.0) (2020-12-16)
 
 - Localized rewrites not working in next commerce app (#641) @markbrocato
 - feat(redirects): implement global redirects (#627) @adrien-k
 
 ---
 
-#### [v2.32.2](https://github.com/moovweb/xdn/releases/tag/v2.32.2) (2020-12-15) - **XDN Packages**
+#### **XDN Packages** - [v2.32.2](https://github.com/moovweb/xdn/releases/tag/v2.32.2) (2020-12-15)
 
 - Don't set long TTL on revalidated assets (#640) @ierceg
 - XDN-7650 - Route for /**xdn**/cache-manifest.js fails if route is de… (#639) @markbrocato
@@ -304,7 +304,7 @@
 
 ---
 
-#### [v2.32.1](https://github.com/moovweb/xdn/releases/tag/v2.32.1) (2020-12-11) - **XDN Packages**
+#### **XDN Packages** - [v2.32.1](https://github.com/moovweb/xdn/releases/tag/v2.32.1) (2020-12-11)
 
 - Log AWS subaccount ID to our Sumo access logs (#638) @ierceg
 - Prohibit the manipulation of content-length header directly from the router (#635) @ierceg
@@ -312,14 +312,14 @@
 
 ---
 
-#### [v2.32.0](https://github.com/moovweb/xdn/releases/tag/v2.32.0) (2020-12-11) - **XDN Packages**
+#### **XDN Packages** - [v2.32.0](https://github.com/moovweb/xdn/releases/tag/v2.32.0) (2020-12-11)
 
 - Adds renderWithApp ResponseWriter method. (#634) @markbrocato
 - Fix decoding of params for prefetch when values already have a % sign (#630) @kevhender
 
 ---
 
-#### [v2.31.0](https://github.com/moovweb/xdn/releases/tag/v2.31.0) (2020-12-10) - **XDN Packages**
+#### **XDN Packages** - [v2.31.0](https://github.com/moovweb/xdn/releases/tag/v2.31.0) (2020-12-10)
 
 - Fix integration tests (#631) @ierceg
 - Enable ISG (#600) @ierceg
@@ -327,13 +327,13 @@
 
 ---
 
-#### [v2.30.1](https://github.com/moovweb/xdn/releases/tag/v2.30.1) (2020-11-16) - **XDN Packages**
+#### **XDN Packages** - [v2.30.1](https://github.com/moovweb/xdn/releases/tag/v2.30.1) (2020-11-16)
 
 - Fix another cache poisoning (#611) @ierceg
 
 ---
 
-#### [v2.30.0](https://github.com/moovweb/xdn/releases/tag/v2.30.0) (2020-11-16) - **XDN Packages**
+#### **XDN Packages** - [v2.30.0](https://github.com/moovweb/xdn/releases/tag/v2.30.0) (2020-11-16)
 
 - @xdn/apollo now supports converting queries to GETs by operation and compressing them. (#560) @markbrocato
 - The @xdn/next plugin now supports webpack 5. (#603) @markbrocato
@@ -342,25 +342,25 @@
 
 ---
 
-#### [v2.29.0](https://github.com/moovweb/xdn/releases/tag/v2.29.0) (2020-11-10) - **XDN Packages**
+#### **XDN Packages** - [v2.29.0](https://github.com/moovweb/xdn/releases/tag/v2.29.0) (2020-11-10)
 
 - [XDN-6213] Spartacus integration improvement - first steps (#598) @kevhender
 
 ---
 
-#### [v2.28.0](https://github.com/moovweb/xdn/releases/tag/v2.28.0) (2020-11-06) - **XDN Packages**
+#### **XDN Packages** - [v2.28.0](https://github.com/moovweb/xdn/releases/tag/v2.28.0) (2020-11-06)
 
 - XDN-6756 - Support distDir in next.config.js (#599) @markbrocato
 
 ---
 
-#### [v2.27.4](https://github.com/moovweb/xdn/releases/tag/v2.27.4) (2020-11-04) - **XDN Packages**
+#### **XDN Packages** - [v2.27.4](https://github.com/moovweb/xdn/releases/tag/v2.27.4) (2020-11-04)
 
 - Fix Module decode-uri-component not found (#595) @markbrocato
 
 ---
 
-#### [v2.27.3](https://github.com/moovweb/xdn/releases/tag/v2.27.3) (2020-11-04) - **XDN Packages**
+#### **XDN Packages** - [v2.27.3](https://github.com/moovweb/xdn/releases/tag/v2.27.3) (2020-11-04)
 
 - Always log user agent in user facing logs (#594) @ierceg
 - Add **dev**getCompleteEdgeConfig job (#593) @ierceg
@@ -368,13 +368,13 @@
 
 ---
 
-#### [v2.27.2](https://github.com/moovweb/xdn/releases/tag/v2.27.2) (2020-11-04) - **XDN Packages**
+#### **XDN Packages** - [v2.27.2](https://github.com/moovweb/xdn/releases/tag/v2.27.2) (2020-11-04)
 
 - XDN-6589 Fix browser.maxAge: 0 interfering with edge caching (#590) @ierceg
 
 ---
 
-#### [v2.27.1](https://github.com/moovweb/xdn/releases/tag/v2.27.1) (2020-11-04) - **XDN Packages**
+#### **XDN Packages** - [v2.27.1](https://github.com/moovweb/xdn/releases/tag/v2.27.1) (2020-11-04)
 
 - Bump version to 2.27.1 (#591) @KaarelKelk
 - XDN-6513_Edge-config-validation-errors-are-not-properly-shown-to-the-user_Markus-Tarn (#587) @MarkusTarn
@@ -383,7 +383,7 @@
 
 ---
 
-#### [v2.27.0](https://github.com/moovweb/xdn/releases/tag/v2.27.0) (2020-11-03) - **XDN Packages**
+#### **XDN Packages** - [v2.27.0](https://github.com/moovweb/xdn/releases/tag/v2.27.0) (2020-11-03)
 
 - Allow users to run downloaded deployments. (#576) @markbrocato
 - fix(Devtools): preserve original req (#586) @adrien-k
@@ -393,25 +393,25 @@
 
 ---
 
-#### [v2.26.3](https://github.com/moovweb/xdn/releases/tag/v2.26.3) (2020-10-28) - **XDN Packages**
+#### **XDN Packages** - [v2.26.3](https://github.com/moovweb/xdn/releases/tag/v2.26.3) (2020-10-28)
 
 - Log x-xdn-hit-request-id (#583) @ierceg
 
 ---
 
-#### [v2.26.2](https://github.com/moovweb/xdn/releases/tag/v2.26.2) (2020-10-28) - **XDN Packages**
+#### **XDN Packages** - [v2.26.2](https://github.com/moovweb/xdn/releases/tag/v2.26.2) (2020-10-28)
 
 - Fix watching of links for prefetching (#585) @kevhender
 
 ---
 
-#### [v2.26.1](https://github.com/moovweb/xdn/releases/tag/v2.26.1) (2020-10-27) - **XDN Packages**
+#### **XDN Packages** - [v2.26.1](https://github.com/moovweb/xdn/releases/tag/v2.26.1) (2020-10-27)
 
 - fix(Prefetcher): check origin (#581) @adrien-k
 
 ---
 
-#### [v2.26.0](https://github.com/moovweb/xdn/releases/tag/v2.26.0) (2020-10-26) - **XDN Packages**
+#### **XDN Packages** - [v2.26.0](https://github.com/moovweb/xdn/releases/tag/v2.26.0) (2020-10-26)
 
 - Add more logging on edge signature check (#571) @ierceg
 - feat(FastlyClient): retry on clone 409 (#579) @adrien-k
@@ -420,14 +420,14 @@
 
 ---
 
-#### [v2.25.0](https://github.com/moovweb/xdn/releases/tag/v2.25.0) (2020-10-23) - **XDN Packages**
+#### **XDN Packages** - [v2.25.0](https://github.com/moovweb/xdn/releases/tag/v2.25.0) (2020-10-23)
 
 - Emulate edge locally by adding parameter interpolation in response.setHeader (#467) @phdunham
 - Update @xdn/prefetcher to check query parameters (CU-XDN-514) (CU-XDN-5937) (#539) @kevhender
 
 ---
 
-#### [v2.24.2](https://github.com/moovweb/xdn/releases/tag/v2.24.2) (2020-10-23) - **XDN Packages**
+#### **XDN Packages** - [v2.24.2](https://github.com/moovweb/xdn/releases/tag/v2.24.2) (2020-10-23)
 
 - Fix logo (#574) @ierceg
 - fix(Devtools): isolate Devtools style + fix reload + add clear btns (#570) @adrien-k
@@ -435,13 +435,13 @@
 
 ---
 
-#### [v2.24.1](https://github.com/moovweb/xdn/releases/tag/v2.24.1) (2020-10-21) - **XDN Packages**
+#### **XDN Packages** - [v2.24.1](https://github.com/moovweb/xdn/releases/tag/v2.24.1) (2020-10-21)
 
 - Preloading logs (#566) @KaarelKelk
 
 ---
 
-#### [v2.24.0](https://github.com/moovweb/xdn/releases/tag/v2.24.0) (2020-10-21) - **XDN Packages**
+#### **XDN Packages** - [v2.24.0](https://github.com/moovweb/xdn/releases/tag/v2.24.0) (2020-10-21)
 
 - fix(withXDN): try fixing integration tests (#569) @adrien-k
 - fix(Preloading) when no requests are sent back to le-deployer (#563) @KaarelKelk
@@ -452,13 +452,13 @@
 
 ---
 
-#### [v2.23.1](https://github.com/moovweb/xdn/releases/tag/v2.23.1) (2020-10-19) - **XDN Packages**
+#### **XDN Packages** - [v2.23.1](https://github.com/moovweb/xdn/releases/tag/v2.23.1) (2020-10-19)
 
 - fix(Build-lambda): override stable-2 (#564) @adrien-k
 
 ---
 
-#### [v2.22.0](https://github.com/moovweb/xdn/releases/tag/v2.22.0) (2020-10-19) - **XDN Packages**
+#### **XDN Packages** - [v2.22.0](https://github.com/moovweb/xdn/releases/tag/v2.22.0) (2020-10-19)
 
 - Bump version to 2.22.0 (#562) @KaarelKelk
 - feat(Preloading) Adds a static prerendering option to Router (#458) @markbrocato
@@ -472,52 +472,52 @@
 
 ---
 
-#### [v2.21.0](https://github.com/moovweb/xdn/releases/tag/v2.21.0) (2020-10-14) - **XDN Packages**
+#### **XDN Packages** - [v2.21.0](https://github.com/moovweb/xdn/releases/tag/v2.21.0) (2020-10-14)
 
 - Add req.protocol (#551) @ierceg
 
 ---
 
-#### [v2.20.3](https://github.com/moovweb/xdn/releases/tag/v2.20.3) (2020-10-13) - **XDN Packages**
+#### **XDN Packages** - [v2.20.3](https://github.com/moovweb/xdn/releases/tag/v2.20.3) (2020-10-13)
 
 - Do not leak auth header upstream (#549) @ierceg
 - fix(CallbackApi): fix awaitFlushed, add timeout and retry + unit tests (#543) @adrien-k
 
 ---
 
-#### [v2.20.2](https://github.com/moovweb/xdn/releases/tag/v2.20.2) (2020-10-07) - **XDN Packages**
+#### **XDN Packages** - [v2.20.2](https://github.com/moovweb/xdn/releases/tag/v2.20.2) (2020-10-07)
 
 - Fix trailing query string in lambda (#546) @ierceg
 - Make `createGroups` param of `addCookie` optional (#540) @kevhender
 
 ---
 
-#### [v2.20.1](https://github.com/moovweb/xdn/releases/tag/v2.20.1) (2020-10-06) - **XDN Packages**
+#### **XDN Packages** - [v2.20.1](https://github.com/moovweb/xdn/releases/tag/v2.20.1) (2020-10-06)
 
 - fix(CallbackLogger) fixed message flush race condition (#542) @KaarelKelk
 - Fix initialization build problem (#544) @ierceg
 
 ---
 
-#### [v2.20.0](https://github.com/moovweb/xdn/releases/tag/v2.20.0) (2020-10-06) - **XDN Packages**
+#### **XDN Packages** - [v2.20.0](https://github.com/moovweb/xdn/releases/tag/v2.20.0) (2020-10-06)
 
 - Allow opt-in support for HTTP protocol (#533) @ierceg
 
 ---
 
-#### [v2.19.0](https://github.com/moovweb/xdn/releases/tag/v2.19.0) (2020-10-05) - **XDN Packages**
+#### **XDN Packages** - [v2.19.0](https://github.com/moovweb/xdn/releases/tag/v2.19.0) (2020-10-05)
 
 - XDN-5643 - Environment variables from the XDN Developer Console are now accessible at build time when using a deploy token (#526) @markbrocato
 
 ---
 
-#### [v2.18.1](https://github.com/moovweb/xdn/releases/tag/v2.18.1) (2020-10-05) - **XDN Packages**
+#### **XDN Packages** - [v2.18.1](https://github.com/moovweb/xdn/releases/tag/v2.18.1) (2020-10-05)
 
 - Fix error with babel-loader not being found in Next.js apps starting … (#536) @markbrocato
 
 ---
 
-#### [v2.18.0](https://github.com/moovweb/xdn/releases/tag/v2.18.0) (2020-10-02) - **XDN Packages**
+#### **XDN Packages** - [v2.18.0](https://github.com/moovweb/xdn/releases/tag/v2.18.0) (2020-10-02)
 
 - Add --includeSources CLI option. (#523) @markbrocato
 - XDN-5761 - Add @xdn/react when running xdn init in gatsby app (#534) @markbrocato
@@ -526,7 +526,7 @@
 
 ---
 
-#### [v2.17.0](https://github.com/moovweb/xdn/releases/tag/v2.17.0) (2020-10-01) - **XDN Packages**
+#### **XDN Packages** - [v2.17.0](https://github.com/moovweb/xdn/releases/tag/v2.17.0) (2020-10-01)
 
 - XDN-5686 - Minimize Nuxt.js serverless bundle size (#528) @markbrocato
 - Minimize router bundle size (#529) @markbrocato
@@ -534,7 +534,7 @@
 
 ---
 
-#### [v2.16.1](https://github.com/moovweb/xdn/releases/tag/v2.16.1) (2020-09-30) - **XDN Packages**
+#### **XDN Packages** - [v2.16.1](https://github.com/moovweb/xdn/releases/tag/v2.16.1) (2020-09-30)
 
 - Enable build lambda deploys to sandbox (#527) @ierceg
 - Nuxt: static routes should take precedence over dynamic routes. (#525) @markbrocato
@@ -544,7 +544,7 @@
 
 ---
 
-#### [v2.16.0](https://github.com/moovweb/xdn/releases/tag/v2.16.0) (2020-09-28) - **XDN Packages**
+#### **XDN Packages** - [v2.16.0](https://github.com/moovweb/xdn/releases/tag/v2.16.0) (2020-09-28)
 
 - XDN-3005 - Support for basic auth (#519) @markbrocato
 - XDN-5587 - Fix issue where catch-all routes incorrectly take preceden… (#520) @markbrocato
@@ -554,52 +554,52 @@
 
 ---
 
-#### [v2.15.0](https://github.com/moovweb/xdn/releases/tag/v2.15.0) (2020-09-25) - **XDN Packages**
+#### **XDN Packages** - [v2.15.0](https://github.com/moovweb/xdn/releases/tag/v2.15.0) (2020-09-25)
 
 - Added paths config support (#515) @dijs
 - Allow backends to have custom ports at and above 443 (#516) @ierceg
 
 ---
 
-#### [v2.14.0](https://github.com/moovweb/xdn/releases/tag/v2.14.0) (2020-09-24) - **XDN Packages**
+#### **XDN Packages** - [v2.14.0](https://github.com/moovweb/xdn/releases/tag/v2.14.0) (2020-09-24)
 
 - Allow for not-present matching for headers, cookies and query parameters (#511) @ierceg
 - Fix header name comparison to be case-insensitive (#511) @ierceg
 
 ---
 
-#### [v2.13.4](https://github.com/moovweb/xdn/releases/tag/v2.13.4) (2020-09-24) - **XDN Packages**
+#### **XDN Packages** - [v2.13.4](https://github.com/moovweb/xdn/releases/tag/v2.13.4) (2020-09-24)
 
 - Reset private caching to false only if explicitly requested in the router (#512) @ierceg
 
 ---
 
-#### [v2.13.3](https://github.com/moovweb/xdn/releases/tag/v2.13.3) (2020-09-24) - **XDN Packages**
+#### **XDN Packages** - [v2.13.3](https://github.com/moovweb/xdn/releases/tag/v2.13.3) (2020-09-24)
 
 - XDN-5528 - Support hardcoded paths in Next.js rewrites (#510) @markbrocato
 
 ---
 
-#### [v2.13.2](https://github.com/moovweb/xdn/releases/tag/v2.13.2) (2020-09-23) - **XDN Packages**
+#### **XDN Packages** - [v2.13.2](https://github.com/moovweb/xdn/releases/tag/v2.13.2) (2020-09-23)
 
 - Improve CLI output: Add a clearer deployment complete message. (#505) @markbrocato
 
 ---
 
-#### [v2.13.1](https://github.com/moovweb/xdn/releases/tag/v2.13.1) (2020-09-23) - **XDN Packages**
+#### **XDN Packages** - [v2.13.1](https://github.com/moovweb/xdn/releases/tag/v2.13.1) (2020-09-23)
 
 - Don't add default router and service worker to the user's app on ever… (#507) @markbrocato
 
 ---
 
-#### [v2.13.0](https://github.com/moovweb/xdn/releases/tag/v2.13.0) (2020-09-22) - **XDN Packages**
+#### **XDN Packages** - [v2.13.0](https://github.com/moovweb/xdn/releases/tag/v2.13.0) (2020-09-22)
 
 - [XDN-5422] Ensure that manual edits to the changelog are preserved (#506) @tristanlee85
 - XDN-5414 - Use --standalone to bundle dependencies when running nuxt … (#501) @markbrocato
 
 ---
 
-#### [v2.12.1](https://github.com/moovweb/xdn/releases/tag/v2.12.1) (2020-09-22) - **XDN Packages**
+#### **XDN Packages** - [v2.12.1](https://github.com/moovweb/xdn/releases/tag/v2.12.1) (2020-09-22)
 
 - Update Sapper integration test to match the docs and not include node… (#504) @markbrocato
 - Remove obsolete domain check to enable wildcard reverse proxy in edge (#503) @ierceg
@@ -607,13 +607,13 @@
 
 ---
 
-#### [v2.12.0](https://github.com/moovweb/xdn/releases/tag/v2.12.0) (2020-09-21) - **XDN Packages**
+#### **XDN Packages** - [v2.12.0](https://github.com/moovweb/xdn/releases/tag/v2.12.0) (2020-09-21)
 
 - Apollo prefetching now uses GETs for all queries. (#500) @markbrocato
 
 ---
 
-#### [v2.11.2](https://github.com/moovweb/xdn/releases/tag/v2.11.2) (2020-09-21) - **XDN Packages**
+#### **XDN Packages** - [v2.11.2](https://github.com/moovweb/xdn/releases/tag/v2.11.2) (2020-09-21)
 
 - Fix XDN-5364 - Next.js redirect to remove trailing slash prevents fal… (#496) @markbrocato
 - feat(CLI): Require node version: 12 or newer (#495) @adrien-k
@@ -622,7 +622,7 @@
 
 ---
 
-#### [v2.11.1](https://github.com/moovweb/xdn/releases/tag/v2.11.1) (2020-09-16) - **XDN Packages**
+#### **XDN Packages** - [v2.11.1](https://github.com/moovweb/xdn/releases/tag/v2.11.1) (2020-09-16)
 
 - Update integration tests for POST/GET&xdn_prefetch=1 caching (#494) @phdunham
 - Next.js: Fix xdn build on windows (#492) @markbrocato
@@ -630,32 +630,32 @@
 
 ---
 
-#### [v2.11.0](https://github.com/moovweb/xdn/releases/tag/v2.11.0) (2020-09-16) - **XDN Packages**
+#### **XDN Packages** - [v2.11.0](https://github.com/moovweb/xdn/releases/tag/v2.11.0) (2020-09-16)
 
 - feat(frameworks): add Gatsby support + serve static root document (#474) @adrien-k
 
 ---
 
-#### [v2.10.3](https://github.com/moovweb/xdn/releases/tag/v2.10.3) (2020-09-15) - **XDN Packages**
+#### **XDN Packages** - [v2.10.3](https://github.com/moovweb/xdn/releases/tag/v2.10.3) (2020-09-15)
 
 - Sapper: Remove extra service-worker route from the default routes.js file add… (#491) @markbrocato
 
 ---
 
-#### [v2.10.2](https://github.com/moovweb/xdn/releases/tag/v2.10.2) (2020-09-15) - **XDN Packages**
+#### **XDN Packages** - [v2.10.2](https://github.com/moovweb/xdn/releases/tag/v2.10.2) (2020-09-15)
 
 - Next.js: pages/404.js now properly functions as the default fallback (#478) @leotoll
 - Fix bug in @xdn/sapper where the service worker would not be loaded i… (#490) @markbrocato
 
 ---
 
-#### [v2.10.1](https://github.com/moovweb/xdn/releases/tag/v2.10.1) (2020-09-14) - **XDN Packages**
+#### **XDN Packages** - [v2.10.1](https://github.com/moovweb/xdn/releases/tag/v2.10.1) (2020-09-14)
 
 - Fix issue where pages/api/index.js was not being resolved by the XDN … (#488) @markbrocato
 
 ---
 
-#### [v2.10.0](https://github.com/moovweb/xdn/releases/tag/v2.10.0) (2020-09-14) - **XDN Packages**
+#### **XDN Packages** - [v2.10.0](https://github.com/moovweb/xdn/releases/tag/v2.10.0) (2020-09-14)
 
 - feat(Errors): enhance user-facing fastly errors (#480) @adrien-k
 - Fix bug when using proxy with path option and a catch-all or optional… (#482) @markbrocato
@@ -669,14 +669,14 @@
 
 ---
 
-#### [v2.9.0](https://github.com/moovweb/xdn/releases/tag/v2.9.0) (2020-09-09) - **XDN Packages**
+#### **XDN Packages** - [v2.9.0](https://github.com/moovweb/xdn/releases/tag/v2.9.0) (2020-09-09)
 
 - Fix XDN-on-XDN caching issues (#431) @ierceg
 - fix(MatchQuery) added edge config tests (#477) @KaarelKelk
 
 ---
 
-#### [v2.8.0](https://github.com/moovweb/xdn/releases/tag/v2.8.0) (2020-09-08) - **XDN Packages**
+#### **XDN Packages** - [v2.8.0](https://github.com/moovweb/xdn/releases/tag/v2.8.0) (2020-09-08)
 
 - Adds support for the Sapper framework (#462) @markbrocato
 - feat(CLI): log failed build output in LD (#452) @adrien-k
@@ -684,7 +684,7 @@
 
 ---
 
-#### [v2.7.0](https://github.com/moovweb/xdn/releases/tag/v2.7.0) (2020-09-07) - **XDN Packages**
+#### **XDN Packages** - [v2.7.0](https://github.com/moovweb/xdn/releases/tag/v2.7.0) (2020-09-07)
 
 - feat(MatchQuery) added criteria.query to match query params - XDN-533 (#461) @KaarelKelk
 - Optimize router loop unrolling by using equivalency chains (#472) @ierceg
@@ -693,32 +693,32 @@
 
 ---
 
-#### [v2.6.4](https://github.com/moovweb/xdn/releases/tag/v2.6.4) (2020-09-04) - **XDN Packages**
+#### **XDN Packages** - [v2.6.4](https://github.com/moovweb/xdn/releases/tag/v2.6.4) (2020-09-04)
 
 - Lower the ACL limit to 900 to avoid Fastly's spurious API errors (#473) @ierceg
 
 ---
 
-#### [v2.6.3](https://github.com/moovweb/xdn/releases/tag/v2.6.3) (2020-09-03) - **XDN Packages**
+#### **XDN Packages** - [v2.6.3](https://github.com/moovweb/xdn/releases/tag/v2.6.3) (2020-09-03)
 
 - Move static method to RouteGroup (#465) @markbrocato
 
 ---
 
-#### [v2.6.2](https://github.com/moovweb/xdn/releases/tag/v2.6.2) (2020-09-02) - **XDN Packages**
+#### **XDN Packages** - [v2.6.2](https://github.com/moovweb/xdn/releases/tag/v2.6.2) (2020-09-02)
 
 - Fix bug where xdn init fails if a supported web framework is not dete… (#470) @markbrocato
 - Ignore query params when watching links to prefetch (#444) @kevhender
 
 ---
 
-#### [v2.6.1](https://github.com/moovweb/xdn/releases/tag/v2.6.1) (2020-09-02) - **XDN Packages**
+#### **XDN Packages** - [v2.6.1](https://github.com/moovweb/xdn/releases/tag/v2.6.1) (2020-09-02)
 
 - Optimize x-xdn-original-qs to be injected only when qs are changed (#468) @ierceg
 
 ---
 
-#### [v2.6.0](https://github.com/moovweb/xdn/releases/tag/v2.6.0) (2020-09-01) - **XDN Packages**
+#### **XDN Packages** - [v2.6.0](https://github.com/moovweb/xdn/releases/tag/v2.6.0) (2020-09-01)
 
 - Fix caching of static pages in NextRoutes. (#464) @markbrocato
 - Fix memory overconsumption in moov_hash (#463) @ierceg
@@ -729,7 +729,7 @@
 
 ---
 
-#### [v2.5.0](https://github.com/moovweb/xdn/releases/tag/v2.5.0) (2020-08-28) - **XDN Packages**
+#### **XDN Packages** - [v2.5.0](https://github.com/moovweb/xdn/releases/tag/v2.5.0) (2020-08-28)
 
 - feat(core/Router): prevent adding routes after fallback statement (#453) @adrien-k
 - fix(consoleWrapper): shim stdout/stderr to encapsulate in json (#432) @adrien-k
@@ -740,7 +740,7 @@
 
 ---
 
-#### [v2.4.2](https://github.com/moovweb/xdn/releases/tag/v2.4.2) (2020-08-26) - **XDN Packages**
+#### **XDN Packages** - [v2.4.2](https://github.com/moovweb/xdn/releases/tag/v2.4.2) (2020-08-26)
 
 - Corrected API documentation comment (#450) @ianand
 - Order predefined routes before dynamic routes (#440) @dijs
@@ -748,20 +748,20 @@
 
 ---
 
-#### [v2.4.1](https://github.com/moovweb/xdn/releases/tag/v2.4.1) (2020-08-26) - **XDN Packages**
+#### **XDN Packages** - [v2.4.1](https://github.com/moovweb/xdn/releases/tag/v2.4.1) (2020-08-26)
 
 - PC-2330 - add Fastly API retry on 500 or 503 errors (#441) @phdunham
 - Disable request coalesing on shield (#448) @ierceg
 
 ---
 
-#### [v1.48.1](https://github.com/moovweb/xdn/releases/tag/v1.48.1) (2020-08-26) - **XDN Packages**
+#### **XDN Packages** - [v1.48.1](https://github.com/moovweb/xdn/releases/tag/v1.48.1) (2020-08-26)
 
 - [v1 back port] Disable request coalescing on shield (#449) @ierceg
 
 ---
 
-#### [v2.4.0](https://github.com/moovweb/xdn/releases/tag/v2.4.0) (2020-08-26) - **XDN Packages**
+#### **XDN Packages** - [v2.4.0](https://github.com/moovweb/xdn/releases/tag/v2.4.0) (2020-08-26)
 
 - Fix bug where context.params was undefined in getServerSideProps and getInitialProps in development when using xdn run. (#443) @dijs
 - Adds a `compute()` function to `ResponseWriter` to compute responses in t… (#442) @markbrocato
@@ -769,32 +769,32 @@
 
 ---
 
-#### [v1.48.0](https://github.com/moovweb/xdn/releases/tag/v1.48.0) (2020-08-24) - **XDN Packages**
+#### **XDN Packages** - [v1.48.0](https://github.com/moovweb/xdn/releases/tag/v1.48.0) (2020-08-24)
 
 - v1: Add ability to completely turn off edge/browser caching for a route (back port of #435 to v1) (#437) @ierceg
 - Don't use latest tag any more (#434) @ierceg
 
 ---
 
-#### [v2.3.1](https://github.com/moovweb/xdn/releases/tag/v2.3.1) (2020-08-23) - **XDN Packages**
+#### **XDN Packages** - [v2.3.1](https://github.com/moovweb/xdn/releases/tag/v2.3.1) (2020-08-23)
 
 - No changes - releasing as the previous release went out incorrectly as 2.2.1
 
 ---
 
-#### [v2.3.0](https://github.com/moovweb/xdn/releases/tag/v2.3.0) (2020-08-22) - **XDN Packages**
+#### **XDN Packages** - [v2.3.0](https://github.com/moovweb/xdn/releases/tag/v2.3.0) (2020-08-22)
 
 - Add ability to completely turn off edge/browser caching for a route (#435) @ierceg
 
 ---
 
-#### [v1.47.0](https://github.com/moovweb/xdn/releases/tag/v1.47.0) (2020-08-21) - **XDN Packages**
+#### **XDN Packages** - [v1.47.0](https://github.com/moovweb/xdn/releases/tag/v1.47.0) (2020-08-21)
 
 - [1.x] Adds a new timing API to allow users to track the performance of thei… (#430) (#433) @ierceg
 
 ---
 
-#### [v2.2.0](https://github.com/moovweb/xdn/releases/tag/v2.2.0) (2020-08-20) - **XDN Packages**
+#### **XDN Packages** - [v2.2.0](https://github.com/moovweb/xdn/releases/tag/v2.2.0) (2020-08-20)
 
 - Adds a new timing API to allow users to track the performance of thei… (#430) @markbrocato
 - Upgrade next tests to 9.5 (#429) @ierceg
@@ -804,7 +804,7 @@
 
 ---
 
-#### [v2.1.0](https://github.com/moovweb/xdn/releases/tag/v2.1.0) (2020-08-18) - **XDN Packages**
+#### **XDN Packages** - [v2.1.0](https://github.com/moovweb/xdn/releases/tag/v2.1.0) (2020-08-18)
 
 - Install @xdn/vue as a runtime dependency. (#421) @markbrocato
 - Make cors config optional for prefetch options (#424) @kevhender
@@ -815,7 +815,7 @@
 
 ---
 
-#### [v2.0.4](https://github.com/moovweb/xdn/releases/tag/v2.0.4) (2020-08-17) - **XDN Packages**
+#### **XDN Packages** - [v2.0.4](https://github.com/moovweb/xdn/releases/tag/v2.0.4) (2020-08-17)
 
 - Add NODE_ENV production to build lambdas (#419) @ierceg
 - Add appShell method to ResponseWriter. (#413) @markbrocato
@@ -823,6 +823,6 @@
 
 ---
 
-#### [v2.0.3](https://github.com/moovweb/xdn/releases/tag/v2.0.3) (2020-08-15) - **XDN Packages**
+#### **XDN Packages** - [v2.0.3](https://github.com/moovweb/xdn/releases/tag/v2.0.3) (2020-08-15)
 
 - Support src/pages in Next.js apps. (#417) @markbrocato
