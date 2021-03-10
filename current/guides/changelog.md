@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.41.2](https://github.com/moovweb/le-deployer/releases/tag/v1.41.2) (2021-03-10)
+* Fixed ordering purge history. (#788) @KaarelKelk* Visual Improvements (#787) @dijs---
 #### **XDN Packages** - [v2.46.11](https://github.com/moovweb/xdn/releases/tag/v2.46.11) (2021-03-09)
 * fix(Devtools): edge hit flag ignoring re-entering x-xdn-t values (#745) @adrien-k* Changelog script updates for cleaner output and entry title (#746) @tristanlee85* XDN-9547 - Fix issue with matching excluded paths with serveStatic on… (#747) @markbrocato* Fix for updating cert with fewer domains (#740) @leotoll---
 #### **XDN Developer Console** - [v1.41.0](https://github.com/moovweb/le-deployer/releases/tag/v1.41.0) (2021-03-09)
