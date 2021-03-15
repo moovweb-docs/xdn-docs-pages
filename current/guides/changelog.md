@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.42.3](https://github.com/moovweb/le-deployer/releases/tag/v1.42.3) (2021-03-15)
+* Fix acme challenge typo (#808) @leotoll* DNS validation fix (#809) @leotoll---
 #### **XDN Developer Console** - [v1.42.2](https://github.com/moovweb/le-deployer/releases/tag/v1.42.2) (2021-03-15)
 * Revert back: New UX for RUM filters - XDN-9451, XDN-9665, XDN-9450… (#806) @adrien-k---
 #### **XDN Developer Console** - [v1.42.1](https://github.com/moovweb/le-deployer/releases/tag/v1.42.1) (2021-03-15)
