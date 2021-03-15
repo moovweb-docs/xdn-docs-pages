@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.42.1](https://github.com/moovweb/le-deployer/releases/tag/v1.42.1) (2021-03-15)
+* fix(Build) remove use of PageContext (#805) @adrien-k---
 #### **XDN Developer Console** - [v1.41.2](https://github.com/moovweb/le-deployer/releases/tag/v1.41.2) (2021-03-10)
 * Fixed ordering purge history. (#788) @KaarelKelk* Visual Improvements (#787) @dijs---
 #### **XDN Packages** - [v2.46.11](https://github.com/moovweb/xdn/releases/tag/v2.46.11) (2021-03-09)
