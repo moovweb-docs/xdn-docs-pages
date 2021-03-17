@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.43.0](https://github.com/moovweb/le-deployer/releases/tag/v1.43.0) (2021-03-17)
+* [MIGRATION] Time Preferences (#799) @dijs* Skip maintenance mode for dark mode (#813) @dijs* Clear error boundaries after navigation. (#812) @markbrocato* [MIGRATION] Dark Mode (#801) @dijs* Fix % rounding display and staff mode error when no CWV data (#807) @kevhender* Remove viewport (#810) @leotoll---
 #### **XDN Developer Console** - [v1.42.4](https://github.com/moovweb/le-deployer/releases/tag/v1.42.4) (2021-03-15)
 * fix team search (#811) @adrien-k---
 #### **XDN Developer Console** - [v1.42.3](https://github.com/moovweb/le-deployer/releases/tag/v1.42.3) (2021-03-15)
