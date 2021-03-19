@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.43.1](https://github.com/moovweb/le-deployer/releases/tag/v1.43.1) (2021-03-19)
+* Domain caa validation fix (#820) @leotoll ---
 #### **XDN Packages** - [v2.48.0](https://github.com/moovweb/xdn/releases/tag/v2.48.0) (2021-03-19)
 * XDN-9946 - Next.js: Allow withXDN and withServiceWorker to accept  fu… (#764) @markbrocato* Increased build-lambda-timeout (#751) @KaarelKelk* XDN-9941 - Next.js: Support optional catch-all parameters (#763) @markbrocato* Ignore routes with headers and cookie matching in the cache manifest (#765) @ierceg---
 #### **XDN Packages** - [v2.47.2](https://github.com/moovweb/xdn/releases/tag/v2.47.2) (2021-03-19)
