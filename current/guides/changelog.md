@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.44.1](https://github.com/moovweb/le-deployer/releases/tag/v1.44.1) (2021-03-23)
+* Query navigation state is now saved in context (#831) @dijs* CWV tracking + small fixes (#821) @leotoll---
 #### **XDN Developer Console** - [v1.43.2](https://github.com/moovweb/le-deployer/releases/tag/v1.43.2) (2021-03-19)
 * Fix crash on Admin page (#820) @leotoll ---
 #### **XDN Packages** - [v2.48.1](https://github.com/moovweb/xdn/releases/tag/v2.48.1) (2021-03-19)
