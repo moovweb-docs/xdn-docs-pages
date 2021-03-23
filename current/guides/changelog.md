@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.43.2](https://github.com/moovweb/le-deployer/releases/tag/v1.43.2) (2021-03-19)
+* Fix crash on Admin page (#820) @leotoll ---
 #### **XDN Packages** - [v2.48.1](https://github.com/moovweb/xdn/releases/tag/v2.48.1) (2021-03-19)
 * XDN-10012 - Fix error when running xdn dev before initial nuxt build (#770) @markbrocato---
 #### **XDN Developer Console** - [v1.43.2](https://github.com/moovweb/le-deployer/releases/tag/v1.43.2) (2021-03-19)
