@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.45.0](https://github.com/moovweb/le-deployer/releases/tag/v1.45.0) (2021-03-24)
+* Navigation Fixes (#836) @dijs* Wrap RUM configuration instructions in a card (#838) @kevhender* Use subheading for CWV overview card (#835) @kevhender* Fix closing of purging window (#834) @kevhender---
 #### **XDN Packages** - [v2.48.2](https://github.com/moovweb/xdn/releases/tag/v2.48.2) (2021-03-24)
 * [Snyk] Upgrade next from 10.0.6 to 10.0.7 (#756) @MEGrimshaw* [Snyk] Upgrade babel-loader from 8.1.0 to 8.2.2 (#760) @MEGrimshaw* XDN-10101 - Next plugins: Only return functions when passed functions. (#773) @markbrocato* XDN-10098 - Exclude @xdn/rum from xdn use command. (#772) @markbrocato---
 #### **XDN Developer Console** - [v1.44.2](https://github.com/moovweb/le-deployer/releases/tag/v1.44.2) (2021-03-23)
