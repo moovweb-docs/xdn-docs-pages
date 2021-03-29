@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.47.0](https://github.com/moovweb/le-deployer/releases/tag/v1.47.0) (2021-03-29)
+* Fix default export for missingDataUtils (#850) @KaarelKelk* Delay prerendering after build (#840) @KaarelKelk* fix(CI): docker cache (#839) @adrien-k* Implemented new rum endpoint for top hosts (#800) @KaarelKelk* Use full cname validation (#849) @leotoll* Add traffic tab to environment page (#832) @kevhender* Segment pardot attribution fix + mimemagic version update (#848) @leotoll* Standardize the look of cancel buttonsin dialogs and improve their lo… (#843) @markbrocato* Removed weighted % and replaced with traffic (#842) @KaarelKelk* fix(Activity) Fixed showing "show all" when there's all records shown (#845) @KaarelKelk* Fixed environment name on airbrake (#844) @KaarelKelk---
 #### **XDN Packages** - [v2.48.4](https://github.com/moovweb/xdn/releases/tag/v2.48.4) (2021-03-25)
 * Add route JSON for fallback to routes injected by XDN (#784) @ierceg---
 #### **XDN Packages** - [v2.48.3](https://github.com/moovweb/xdn/releases/tag/v2.48.3) (2021-03-25)
