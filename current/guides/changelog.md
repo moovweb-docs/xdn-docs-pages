@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.47.2](https://github.com/moovweb/le-deployer/releases/tag/v1.47.2) (2021-03-31)
+* Fix error on CLS tab in Core Web Vitals page (#863) @markbrocato---
 #### **XDN Packages** - [v2.49.1](https://github.com/moovweb/xdn/releases/tag/v2.49.1) (2021-03-31)
 * Add Ember Fastboot detection to xdn init. (#789) @markbrocato---
 #### **XDN Packages** - [v2.49.0](https://github.com/moovweb/xdn/releases/tag/v2.49.0) (2021-03-31)
