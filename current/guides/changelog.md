@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.48.0](https://github.com/moovweb/le-deployer/releases/tag/v1.48.0) (2021-04-01)
+* feat(edge-redirect): allow URL as 'from' (#865) @adrien-k* [MIGRATION SKIP-MAINTENANCE] Add Deploy to XDN Button (#626) @dijs---
 #### **XDN Packages** - [v2.49.2](https://github.com/moovweb/xdn/releases/tag/v2.49.2) (2021-03-31)
 * Bump y18n from 4.0.0 to 4.0.1 (#791) @dependabot* [Snyk] Upgrade i18next from 19.8.4 to 19.9.1 (#778) @MEGrimshaw* [Snyk] Upgrade lodash from 4.17.19 to 4.17.21 (#776) @MEGrimshaw* [Snyk] Upgrade ts-loader from 8.0.14 to 8.0.17 (#774) @MEGrimshaw* [Snyk] Upgrade ajv from 6.12.3 to 6.12.6 (#775) @MEGrimshaw* [Snyk] Upgrade rxjs from 6.5.5 to 6.6.6 (#779) @MEGrimshaw* [Snyk] Upgrade mime-types from 2.1.27 to 2.1.29 (#780) @MEGrimshaw* Fix default redirect response body (#790) @ierceg---
 #### **XDN Developer Console** - [v1.47.2](https://github.com/moovweb/le-deployer/releases/tag/v1.47.2) (2021-03-31)
