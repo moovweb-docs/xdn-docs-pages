@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.48.1](https://github.com/moovweb/le-deployer/releases/tag/v1.48.1) (2021-04-01)
+* fix deploy github route (#866) @adrien-k---
 #### **XDN Developer Console** - [v1.48.0](https://github.com/moovweb/le-deployer/releases/tag/v1.48.0) (2021-04-01)
 * feat(edge-redirect): allow URL as 'from' (#865) @adrien-k* [MIGRATION SKIP-MAINTENANCE] Add Deploy to XDN Button (#626) @dijs---
 #### **XDN Packages** - [v2.49.2](https://github.com/moovweb/xdn/releases/tag/v2.49.2) (2021-03-31)
