@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.48.2](https://github.com/moovweb/le-deployer/releases/tag/v1.48.2) (2021-04-03)
+* Added timeframe to hosts endpoint (#871) @dijs* CWV Filter fix (#867) @dijs* Core Web Vitals Tabs host fix (#870) @dijs---
 #### **XDN Packages** - [v2.49.4](https://github.com/moovweb/xdn/releases/tag/v2.49.4) (2021-04-02)
 * XDN-10553 - Next.js: Homepage with getStaticProps fails to serve json… (#801) @markbrocato---
 #### **XDN Packages** - [v2.49.3](https://github.com/moovweb/xdn/releases/tag/v2.49.3) (2021-04-01)
