@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.49.1](https://github.com/moovweb/le-deployer/releases/tag/v1.49.1) (2021-04-05)
+* fix(CVW) Fixed default selected host on CWV page (#876) @KaarelKelk---
 #### **XDN Developer Console** - [v1.49.0](https://github.com/moovweb/le-deployer/releases/tag/v1.49.0) (2021-04-05)
 * fix(GithubDeploy): Github race condition + token encryption (#868) @adrien-k---
 #### **XDN Developer Console** - [v1.48.2](https://github.com/moovweb/le-deployer/releases/tag/v1.48.2) (2021-04-03)
