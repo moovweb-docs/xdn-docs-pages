@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.49.3](https://github.com/moovweb/le-deployer/releases/tag/v1.49.3) (2021-04-06)
+* [MIGRATION SKIP-MAINTENANCE] chore(GithubDeploy): remove non-encrypt tokens from DB (#875) @adrien-k---
 #### **XDN Developer Console** - [v1.49.2](https://github.com/moovweb/le-deployer/releases/tag/v1.49.2) (2021-04-05)
 * Added back default value for context (#877) @KaarelKelk---
 #### **XDN Developer Console** - [v1.49.1](https://github.com/moovweb/le-deployer/releases/tag/v1.49.1) (2021-04-05)
