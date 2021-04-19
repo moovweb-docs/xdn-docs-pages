@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.51.0](https://github.com/moovweb/le-deployer/releases/tag/v1.51.0) (2021-04-19)
+- feat(LambdaJob) store logs in redis until archive (Step 1) @KaarelKelk (#899)- [MIGRATION SKIP-MAINTENANCE] feat(Starter): set team edge region separately @adrien-k (#890)- fix(Activity) Fixed showing API cache purges @KaarelKelk (#904)- fix(Layer0) renamed version on build overview @KaarelKelk (#902)- feat(RDNSupport): change logo and layout @adrien-k (#898)- Delete button text fix @leotoll (#895)- add version to deploy tracking @leotoll (#897)- Fixed scope on xdn => layer0 package @KaarelKelk (#894)---
 #### **XDN Packages** - [v2.52](https://github.com/moovweb/xdn/releases/tag/v2.52) (2021-04-13)
 * Allow surrogate key to be set through the router (#837) @ierceg---
 #### **XDN Packages** - [v2.52.0](https://github.com/moovweb/xdn/releases/tag/v2.52.0) (2021-04-09)
