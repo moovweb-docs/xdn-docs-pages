@@ -1,3 +1,5 @@
+#### **XDN Developer Console** - [v1.52.0](https://github.com/moovweb/le-deployer/releases/tag/v1.52.0) (2021-04-20)
+🚀 New Features- The router code is now displayed in the site and deployment views with overlaid caching stats. @MarkusTarn (#841)- The new alerts feature allows users to subscribe to email alerts for caching, core web vitals, deployments, and more. @MarkusTarn (#818)✨ Enhancements- Renaming updates slug and subdomains @adrien-k (#896)- Preserve overridden metrics values @KaarelKelk (#907)- Show deployments and cache purges in all graphs @kevhender (#892)🐛 Bug Fixes- Show correct env name instead of production on current production deployment card. @KaarelKelk (#911)- Fix some brand naming. @markbrocato (#909)---
 #### **XDN Developer Console** - [v1.51.1](https://github.com/moovweb/le-deployer/releases/tag/v1.51.1) (2021-04-19)
 - XDN-10892 - CWV tab stats should update when filters are changed @kevhender (#900)- XDN-10816 - Force refresh when user changes dark mode setting @kevhender (#903)---
 #### **XDN Developer Console** - [v1.51.0](https://github.com/moovweb/le-deployer/releases/tag/v1.51.0) (2021-04-19)
